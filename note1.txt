@@ -1,2 +1,3 @@
 Hi, my name is Selim-itl and this is my first text content which is been created using VIM!
 This is my second line of text - 08:33:00 AM
+This is my third line of text - 08:39:00 AM
